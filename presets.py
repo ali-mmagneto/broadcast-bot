@@ -1,8 +1,7 @@
 class Presets(object):
     WELCOME_MESSAGE = """
-<b>Hello.. </b>{}
-<code>I'm an official telecaster bot
-maintained by</code> <b>{}</b>
+<b>Merhaba.. </b>{}
+<code> Ben @quickwaste Kanlının İstek botuyum. Yapan @mmagneto</b>
 <code>Keep me unblocked to receive ma official updates.</code>
     """
     USERS_LIST = "<b>Total:</b>\n\nSubscribers - {}\nBlocked / Deleted - {}"
